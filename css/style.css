@@ -384,9 +384,16 @@ li {
     font-size: 1.5rem;
   }
 
-  .about {
+  .about:nth-child(1) {
     flex-direction: column-reverse;
   }
+  .about__description,
+.about__image {
+  flex-basis: 100%;
+}
+.expertise__container{
+  flex-direction: column;
+}
 }
 
 @media screen and (min-width: 1025px) {
