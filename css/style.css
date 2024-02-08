@@ -415,6 +415,16 @@ li {
   .expertise__title {
     margin-bottom: 1.5rem;
   }
+  .testimonie__image-container{
+    padding-top: 3rem;
+  }
+  .testimonie__author {
+    font-size: 1.2rem;
+  }
+  .testimonie__author-role {
+    font-size: 0.9rem;
+    padding-top: 0.8rem;
+  }
 }
 
 
