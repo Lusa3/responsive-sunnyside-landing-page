@@ -430,9 +430,9 @@ li {
   .gallery__picture{
     display: none;
   }
-  .gallery_img{
-  display: block;
-  width: 100%;
+  .gallery__img--mobile{
+  width: 50%;
+  object-fit: fill;
   }
 
 
@@ -447,7 +447,7 @@ li {
   .nav__hamburger {
     display: none;
   }
-  .gallery_img{
+  .gallery_img--mobile{
     display: none;
   }
 }
