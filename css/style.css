@@ -431,10 +431,11 @@ li {
     display: none;
   }
   .gallery_img{
-  display: flex;
+  display: block;
   width: 100%;
   }
-  
+
+
 }
 
 
